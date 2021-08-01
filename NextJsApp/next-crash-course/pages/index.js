@@ -12,3 +12,12 @@ export default function Home() {
     </div>
   )
 }
+
+
+
+// npm run dev
+
+//cd next-crash-course
+
+// cd react-crash-course
+
